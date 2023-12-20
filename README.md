@@ -1,5 +1,7 @@
 # gym-super-mario-bros
 
+Forked to add support for Gymnasium and python 3.12. Needs to reference the fork for nes-py for relavent versions.
+
 [![BuildStatus][build-status]][ci-server]
 [![PackageVersion][pypi-version]][pypi-home]
 [![PythonVersion][python-version]][python-home]
