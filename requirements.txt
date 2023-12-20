@@ -1,3 +1,8 @@
-matplotlib>=2.0.2
-opencv-python>=3.4.0.12
-pygame>=1.9.3
+gymnasium>=0.29.1
+nes-py @ git+https://github.com/klashenrik/nes-py.git@1c97ee52e564b515a48a84564fba1f2e442a382d
+numpy>=1.26.2
+pyglet>=2.0.10
+setuptools>=69.0.2
+tqdm>=4.66.1
+wheel>=0.42.0
+pygame>=2.5.2
